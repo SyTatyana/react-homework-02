@@ -1,0 +1,32 @@
+label {
+    display: block;
+    font-size: 20px;
+}
+
+input {
+  display: block;
+  margin: 10px auto;
+  width: 200px;
+  height: 20px;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+.form {
+    display: block;
+    margin: 0 auto;
+    padding: 25px;
+    width: 20vw;
+    border-radius: 20px 0 20px 0;
+    background-color: slateblue;
+}
+
+.submitButton {
+    background-color: turquoise;
+    border: 1px solid darkblue;
+    border-radius: 3px;
+    height: 20px;
+    width: 90px;
+    margin: 0 auto;
+    display: block;
+}
